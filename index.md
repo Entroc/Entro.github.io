@@ -20,7 +20,11 @@
       </head>
 
   <body>
-
+<form id="search">
+  <input type="text" />
+  <button onclick="javascript:alert('hi');">Alert Hi</button>
+  <button type="button" onclick="window.location.href='http://www.goo22gle.com/'">Go to Google</button>
+</form>​
   <p class="readeronly">
       </p>
 
